@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.jubayer_ahamad_tayef.relative_layout"
-        minSdk = 19
+        minSdk = 21
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
